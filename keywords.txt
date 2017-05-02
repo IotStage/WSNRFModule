@@ -1,0 +1,16 @@
+#######################################
+# Syntax Coloring Map For PH lib
+######################################## 
+# Class
+#######################################
+
+RFModule	KEYWORD1
+WSNRFModule	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+initRF KEYWORD2
+checkPacket KEYWORD2
+saveData KEYWORD2
+
